@@ -39,6 +39,8 @@ The server requires express, mysql2, sequelize and dotenv in order to run. Type 
 ## Usage
 A ".env" file is required to be in the root directory of the application or environment parameters set if deploying in a cloud environment. The environment paramters required are "DB_NAME=<database-name>, DB_USER=<sql username>, DB_PW=<sql password>" where triangle brackets denote your own parameters. Note: your database name must match an existing database.
 
+When you're ready to run the server simply type "npm start" in the command line.
+
   
 ## Contact
 Find me at [GitHub](https://github.com/charlestietjen)
